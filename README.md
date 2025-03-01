@@ -1,0 +1,1 @@
+# offensive_persian_word
