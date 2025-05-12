@@ -1,6 +1,3 @@
-# Absolutely! Here's a professional and clear **README** text you can use and customize for your Persian Offensive Word Detection project on GitHub:
-
----
 
 # 🛡️ Persian Offensive Word Detection with Deep Learning
 
@@ -69,7 +66,3 @@ Contributions are welcome! Feel free to submit issues or pull requests if you'd 
 ## 📜 License
 
 This project is licensed under the MIT License.
-
----
-
-Let me know if you'd like to include your name, your logo, or a sample input/output example.
